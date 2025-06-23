@@ -12,4 +12,11 @@ Hey, I’m Umair — a front-end web developer burdened with glorious purpose. I
 ![](https://nirzak-streak-stats.vercel.app/?user=samael-stark&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samael-stark&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
